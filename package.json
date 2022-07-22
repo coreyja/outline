@@ -111,7 +111,7 @@
     "jszip": "^3.7.1",
     "kbar": "0.1.0-beta.28",
     "koa": "^2.13.4",
-    "koa-body": "^4.2.0",
+    "koa-body": "^5.0.0",
     "koa-compress": "^5.1.0",
     "koa-convert": "^2.0.0",
     "koa-helmet": "^6.1.0",
