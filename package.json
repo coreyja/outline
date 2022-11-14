@@ -46,7 +46,7 @@
     "@babel/core": "^7.18.6",
     "@babel/plugin-proposal-decorators": "^7.10.5",
     "@babel/plugin-transform-destructuring": "^7.10.4",
-    "@babel/plugin-transform-regenerator": "^7.10.4",
+    "@babel/plugin-transform-regenerator": "^7.18.6",
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
     "@bull-board/api": "^4.0.0",
